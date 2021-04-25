@@ -1,0 +1,28 @@
+ .card {
+      border-radius: 5px;
+      box-shadow: 7px 10px 35px #910031;
+      width: 20%;
+      font-size: 20px;
+    }
+
+    .card2 {
+      border-radius: 5px;
+      width: 20%;
+      font-size: 20px;
+    }
+
+    .tdlist {
+      background-color: #beeefa;
+      padding: 5px;
+      font-family: sans-serif;
+      text-decoration: none;
+    }
+
+.headmargin{
+      margin-left: 450px;
+    }
+
+    a{
+      text-decoration: none;
+      color: black;
+    }
